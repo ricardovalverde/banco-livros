@@ -1,3 +1,6 @@
+CREATE DATABASE livrariadb;
+USE livrariadb;
+
 -- Tabela Autor
 CREATE TABLE `Autor` (
   `id_autor` int NOT NULL,
