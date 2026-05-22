@@ -1,3 +1,5 @@
+USE livrariadb;
+
 -- Inserção de Autores
 INSERT INTO Autor (id_autor, nome, pais_origem) VALUES
 (1,  'Machado de Assis',      'Brasil'),
